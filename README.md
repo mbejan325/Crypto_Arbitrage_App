@@ -9,8 +9,11 @@ This project contains an application that, when given two datasets can be used t
 **Technologies**
 
 Programming Language: Python 3.7.10
+
 Libraries: Pandas, matplotlib
+
 Frameworks: N/A
+
 Operating System: Windows 10
 
 **Installation Guide**
