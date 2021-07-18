@@ -1,4 +1,4 @@
-# *Crypto_Arbitrage_App*
+# *Crypto Arbitrage App*
 
 ![markdown-image](bitcoin.jpg)
 
