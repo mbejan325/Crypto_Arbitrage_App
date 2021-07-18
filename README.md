@@ -7,6 +7,7 @@
 This project contains an application that, when given two datasets can be used to detect discrepencies in the price of a security across the two exchanges. As is, this project takes in data from Bitstamp and Coinbase on Bitcoin's price from January 1st to March 31st of 2018. 
 
 **Technologies**
+
 Programming Language: Python 3.7.10
 Libraries: Pandas, matplotlib
 Frameworks: N/A
