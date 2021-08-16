@@ -1,10 +1,10 @@
-# *Crypto_Arbitrage_App*
+# *Crypto Arbitrage App*
 
 ![markdown-image](bitcoin.jpg)
 
 **Welcome!**
 
-This project contains an application that, when given, two datasets can be used to detect discrepencies in the price of a security across the two exchanges. As is, this project takes in data from Bitstamp and Coinbase on Bitcoin's price from January 1st to March 31st of 2018. 
+This project contains an application that, when given two datasets can be used to detect discrepencies in the price of a security across the two exchanges. As is, this project takes in data from Bitstamp and Coinbase on Bitcoin's price from January 1st to March 31st of 2018. 
 
 **Technologies**
 Programming Language: Python 3.7.10
@@ -16,7 +16,7 @@ Operating System: Windows 10
 To run this application please follow the following steps:
 1)  Clone the repository
 2)  Open up your python CLI and activate the dev environment. Python version 3.7.10 needs to be used.
-3)  Navigate to the "Crypto_Arbitrage_App" folder and run "jupyter lab" to open the jupyter lab interface.
+3)  Navigate to the "Crypto_Arbitrage_App" folder and run "jupyter lab" command to open the jupyter lab interface.
 4)  In Jupyter lab, select the "final_crypto_arbitrage.ipynb" file.
 5)  From there, you can run the program with the preselected dates or if desired change the dates chosen to see if there other profitable days.
 6)  When the application has been fully run you will have various plots and statistics showing the profit opportunities, if any, and other data.
